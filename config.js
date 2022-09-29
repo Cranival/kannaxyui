@@ -43,35 +43,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
-global.sgh = 'https://bl4ck-lion.github.io/index.php'
-global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.sig = 'https://instagram.com/ai_khanip'
+global.sgh = 'Private'
+global.sgc = 'https://chat.whatsapp.com/FDtBwUtHU7q215aWKxD7XT'
+global.sdc = 'Belum ada'
+global.snh = '"_"'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
-global.psaweria = 'https://saweria.com/LeonGanz'
+global.pdana = '"_"'
+global.povo = '"_"'
+global.pgopay = '083893144467'
+global.ppulsa = '083893144467'
+global.ppulsa2 = '083893144467'
+global.psaweria = '"_"'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
-global.namebot = 'Yusuf Oct'
-global.nameown = 'Yusuf Oct'
+global.nomorbot = '6283842969296'
+global.nomorown = '6283893144467'
+global.nomorpart = '"_"'
+global.namebot = 'Ruriii Ch.'
+global.nameown = 'Khanip'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127104362', 'Yusuf Oct', true],
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true]
+  ['6283893144467', 'Khanip', true]
+ 
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,13 +113,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Yui - Chan 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Yui - Chan '
+global.wm = '                「 Ruu - Chan 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ruu - Chan ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Ruu - Chan '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
-global.author = '                「 Yui - Chan  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Ruriii - Ch.`
+global.author = '                「 Ruu - Chan  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +186,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Yui - Chan'
-global.stickauth = `By ©LeonGanz`
+global.stickpack = 'Ruu - Chan'
+global.stickauth = `By © Ruriii - Ch.`
 
 global.multiplier = 38 // The higher, The harder levelup
 
